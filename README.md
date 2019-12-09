@@ -78,7 +78,10 @@ These would be read from the bottom left up for Inorder and Postorder and from t
 
 ## Example of Trees 
 
+![alttext](./image/example2.png)
+
 ![alttext](./image/example.png)
+
 
 Figure 3: A Tree Corresponding to the Markup Elements of a Web Page
 
