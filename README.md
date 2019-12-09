@@ -68,6 +68,14 @@ For example, the following three questions can all be modeled and answered using
 - Given a map of roads, how can I get from point A to point B in the shortest distance / time?
 
 
+## Tree Traversals
+There are three way to traverse a binary tree:
+- Inorder (Left, Root, Right) 
+- Preorder (Root, Left, Right) 
+- Postorder (Left, Right, Root)
+These would be read from the bottom left up for Inorder and Postorder and from the Root down for Preorder.
+
+
 ## Example of Trees 
 
 ![alttext](./image/example.png)
