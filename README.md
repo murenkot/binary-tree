@@ -2,6 +2,9 @@
 
 <p>Tree is a hierarchical data structure. Main uses of trees include maintaining hierarchical data, providing moderate access and insert/delete operations. Binary trees are special cases of tree where every node has at most two children.</p>
 
+![alt text](http://www.mit.edu/~6.005/sp11/psets/ps2/Figure%201.png)
+
+
 ```
 # A class that represents an individual node in a 
 # Binary Tree 
