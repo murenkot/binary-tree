@@ -1,4 +1,4 @@
-# Binary-tree
+# Binary tree
 
 <p>Trees are a special kind of graph that represents a hierarchy of things, like employee-boss relationships in a corporate hierarchy, or folders on a drive, where each folder can have other files and folders inside of it. </p>
 	
