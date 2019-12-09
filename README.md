@@ -66,3 +66,12 @@ For example, the following three questions can all be modeled and answered using
 - If I have a map of possible flights, how can I get from city A to city B in the least number of flights / in the shortest time?
 - If I have two people on LinkedIn or Facebook, what's the shortest chain of introductions that would connect these people?
 - Given a map of roads, how can I get from point A to point B in the shortest distance / time?
+
+
+## Example of Trees 
+
+[html tree](https://runestone.academy/runestone/books/published/pythonds/_images/htmltree.png)
+
+Figure 3: A Tree Corresponding to the Markup Elements of a Web Page
+
+The HTML source code and the tree accompanying the source illustrate another hierarchy. Notice that each level of the tree corresponds to a level of nesting inside the HTML tags. The first tag in the source is <html> and the last is </html> All the rest of the tags in the page are inside the pair. If you check, you will see that this nesting property is true at all levels of the tree.
