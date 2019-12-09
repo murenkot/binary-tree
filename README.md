@@ -1,9 +1,25 @@
-# binary-tree
+# Binary-tree
 
-<p>Tree is a hierarchical data structure. Main uses of trees include maintaining hierarchical data, providing moderate access and insert/delete operations. Binary trees are special cases of tree where every node has at most two children.</p>
+<p>Trees are a special kind of graph that represents a hierarchy of things, like employee-boss relationships in a corporate hierarchy, or folders on a drive, where each folder can have other files and folders inside of it. </p>
+	
+<p> Main uses of trees include maintaining hierarchical data, providing moderate access and insert/delete operations. Binary trees are special cases of tree where every node has at most two children.</p>
+
+* The major advantage of binary search trees over other data structures is that the related sorting algorithms and search algorithms such as in-order traversal can be very efficient; they are also easy to code. 
+* 
+
+<p>A Binary Tree node contains following parts.</p>
+- Data
+- Pointer to left child
+- Pointer to right child
 
 ![alt text](http://www.mit.edu/~6.005/sp11/psets/ps2/Figure%201.png)
 
+Binary tree has following properties:
+- Height — The height of a node is the maximum number of edges separating that node from a leaf (see leaf).
+- Depth — The depth of a node is the number of edges separating that node from the root node.
+- Size — The size of a tree is the number of nodes it contains.
+- Balance — The balance factor of a node is the difference between the height of its left subtree and the height of its right subtree.
+- Leaf — A leaf is a node that doesn’t have any children, in other words, an end node.
 
 ```
 # A class that represents an individual node in a 
@@ -43,3 +59,10 @@ root.left.left = Node(4);
 / \ 
 None None'''
 ```
+
+## Probles you can solve with tree structure 
+For example, the following three questions can all be modeled and answered using the same or similar algorithms on trees:
+
+- If I have a map of possible flights, how can I get from city A to city B in the least number of flights / in the shortest time?
+- If I have two people on LinkedIn or Facebook, what's the shortest chain of introductions that would connect these people?
+- Given a map of roads, how can I get from point A to point B in the shortest distance / time?
