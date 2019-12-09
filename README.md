@@ -8,9 +8,9 @@
 
 
 <p>A Binary Tree node contains following parts.</p>
-* Data
-* Pointer to left child
-* Pointer to right child
+- Data
+- Pointer to left child
+- Pointer to right child
 
 ![alt text](http://www.mit.edu/~6.005/sp11/psets/ps2/Figure%201.png)
 
