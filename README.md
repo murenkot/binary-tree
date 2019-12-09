@@ -2,8 +2,7 @@
 
 <p>Tree is a hierarchical data structure. Main uses of trees include maintaining hierarchical data, providing moderate access and insert/delete operations. Binary trees are special cases of tree where every node has at most two children.</p>
 
-<p># Python program to introduce Binary Tree 
-
+```
 # A class that represents an individual node in a 
 # Binary Tree 
 class Node: 
@@ -40,4 +39,4 @@ root.left.left = Node(4);
 4 None None None 
 / \ 
 None None'''
-</p>
+```
