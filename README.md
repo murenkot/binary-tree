@@ -70,7 +70,7 @@ For example, the following three questions can all be modeled and answered using
 
 ## Example of Trees 
 
-[html tree](https://runestone.academy/runestone/books/published/pythonds/_images/htmltree.png)
+![alttext](./image/example.png)
 
 Figure 3: A Tree Corresponding to the Markup Elements of a Web Page
 
