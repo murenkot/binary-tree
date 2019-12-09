@@ -4,13 +4,13 @@
 	
 <p> Main uses of trees include maintaining hierarchical data, providing moderate access and insert/delete operations. Binary trees are special cases of tree where every node has at most two children.</p>
 
-* The major advantage of binary search trees over other data structures is that the related sorting algorithms and search algorithms such as in-order traversal can be very efficient; they are also easy to code. 
-* 
+> The major advantage of binary search trees over other data structures is that the related sorting algorithms and search algorithms such as in-order traversal can be very efficient; they are also easy to code. 
+
 
 <p>A Binary Tree node contains following parts.</p>
-- Data
-- Pointer to left child
-- Pointer to right child
+* Data
+* Pointer to left child
+* Pointer to right child
 
 ![alt text](http://www.mit.edu/~6.005/sp11/psets/ps2/Figure%201.png)
 
