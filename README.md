@@ -7,7 +7,7 @@
 > The major advantage of binary search trees over other data structures is that the related sorting algorithms and search algorithms such as in-order traversal can be very efficient; they are also easy to code. 
 
 
-<p>A Binary Tree node contains following parts.</p>
+A Binary Tree node contains following parts:
 - Data
 - Pointer to left child
 - Pointer to right child
